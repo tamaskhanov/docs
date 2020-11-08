@@ -79,4 +79,4 @@ Before you can become a sponsored developer, you must enable 2FA on your {% data
 4. Click **Request approval**.
   ![Request approval button](/assets/images/help/sponsors/request-approval-button.png)
 
-{% data reusables.sponsors.github-review-app %}
+{% 
